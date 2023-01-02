@@ -1,8 +1,5 @@
-<<<<<<< Updated upstream
 # Program to add nos
-=======
 #Program to add two nos
->>>>>>> Stashed changes
 a = int(input())
 b = int(input())
 
