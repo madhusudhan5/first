@@ -1,5 +1,4 @@
 # Program to add nos
-#Program to add two nos
 a = int(input())
 b = int(input())
 
